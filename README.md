@@ -24,7 +24,7 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 
 ## Open Source
 
-### AWS
+### Amazon Web Services
 
 - **AWS Community Builder** (<800 world-wide) 71 are in Management/Governance & Migration
 - Member, AWS Worldwide Public Sector Partner Advisory Council
@@ -36,13 +36,15 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 ### Other
 
 - GitHub Artic Code Vault Contributor, July 2020
-- Past Board Officer and Foundation Member, Apache Software Foundation
+- Past Board Officer, Apache Software Foundation (ASF) 
   - VP of Infrastructure (World Wide) 2009-2011
-- Apache Software Foundation projects: apr, httpd, mod_perl, apreq, infra
+- Foundation Member, Apache Software Foundation (ASF)
+- Apache Software Foundation (ASF) projects: apr, httpd, mod_perl, apreq, infra
 - Past Member, Qubole Customer Advisory Council
 - Past Mentor, FreeBSD Foundation
 - Past FreeBSD ports committer
   - Most Enhancements to the FreeBSD Ports Tree in The World, 2010
+- Past P5P Member and CPAN author
 
 ## What am I active in right now ? (Updated as of 12/13/2020)
 
@@ -57,5 +59,3 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
   - gitpod, tasks, mkdocs
 - cdk-patterns/serverless
 - kubernetes-sigs/aws-load-balancer-controller
-
-
