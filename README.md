@@ -19,7 +19,7 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - 1st place national fund-raising team for Best Friends Society.
 - National crisis response to all US hurricanes in 2018.
 - Puerto Rico earthquake response in 2019: 14,000 pounds of food & water, and rescue of 78 dogs.
-- Puerto Rico COVID-19 2020foster & recuse of 62 dogs.
+- Puerto Rico COVID-19 2020 foster & recuse of 62 dogs.
 - Traveled to Puerto Rico, Thailand, and Hawaii (for Kauai Humane Society) rescuing animals from high kill shelters.
 
 ## Open Source
