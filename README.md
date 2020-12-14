@@ -6,7 +6,7 @@
 - [Twitter](https://twitter.com/p6m7g8) (@p6m7g8)
 - [Facebook](https://www.facebook.com/philip.gollucci)
 - [Email](mailto:pgollucci@p6m7g8.com)
-- Dev.to
+- [Dev.to](https://dev.to/pgollucci)
 
 ## Animal Rescuer
 
