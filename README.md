@@ -10,6 +10,8 @@
 - [Medium](https://medium.com/@pgollucci)
 - [YouTube](https://www.youtube.com/channel/UC6mOzHytcWLRJInP5B_Qg6g)
 - [Instagram](https://www.instagram.com/p6m7g8/)
+- [TwitchTV](https://www.twitch.tv/pgollucci)
+- [StackOverlfow](https://meta.stackexchange.com/users/908499/philip-m-gollucci)
 
 ## Animal Rescuer
 
