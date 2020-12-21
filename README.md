@@ -2,12 +2,13 @@
 
 ## Where am I?
 
+- [Email](mailto:pgollucci@p6m7g8.com)
 - [LinkedIn](https://www.linkedin.com/in/pgollucci/)
 - [Twitter](https://twitter.com/p6m7g8) (@p6m7g8)
 - [Facebook](https://www.facebook.com/philip.gollucci)
-- [Email](mailto:pgollucci@p6m7g8.com)
 - [Dev.to](https://dev.to/pgollucci)
 - [Medium](https://medium.com/@pgollucci)
+- [YouTube](https://www.youtube.com/channel/UC6mOzHytcWLRJInP5B_Qg6g)
 
 ## Animal Rescuer
 
