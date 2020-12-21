@@ -41,10 +41,15 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 ### Other
 
 - GitHub Artic Code Vault Contributor, July 2020
+- GitHub Developer Program
+- Foundation Member, Apache Software Foundation (ASF)
+- Linked In Mentor
+
+### Prior
+
 - Past Board Officer, Apache Software Foundation (ASF) 
   - VP of Infrastructure (World Wide) 2009-2011
-- Foundation Member, Apache Software Foundation (ASF)
-- Apache Software Foundation (ASF) projects: apr, httpd, mod_perl, apreq, infra
+- Past Apache Software Foundation (ASF) projects: apr, httpd, mod_perl, apreq, infra
 - Past Member, Qubole Customer Advisory Council
 - Past Mentor, FreeBSD Foundation
 - Past FreeBSD ports committer
@@ -54,13 +59,29 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 ## What am I active in right now ? (Updated as of 12/13/2020)
 
 - aws/aws-cdk
-  - eks, lambda-nodejs, ec2imagebuilder
 - aws/aws-cdk-rfcs
-- aws/jsii
 - aws/constructs
+- aws/eks-charts
+- aws/aws-eks-best-practices
+- aws/jsii
+- aws/json2sjii
 - awslabs/cdk8s
-- hashicorp/terraform-cdk
-- projen/projen
-  - gitpod, tasks, mkdocs
+- awslabs/aws-eks-cluster-controller
+- aws-quickstart/quickstart-amazon-eks
+- aws-quickstart/quickstart-amazon-eks-cluster-resource-provider
 - cdk-patterns/serverless
+- construct-catalog/catalog
+- construct-catalog/catalog-master
+- eladb/cdk8s-image
+- eladb/cdk8s-operator
+- eladb/jsii-docgen
+- eladb/jsii-release
+- eladb/jsii-srcmak
+- eladb/markmac
+- hashicorp/terraform-cdk
+- joesuf4/pty
 - kubernetes-sigs/aws-load-balancer-controller
+- kubernetes-sigs/aws-alb-ingress-controller
+- ohmyzsh/ohmyzsh
+- pahud/eks-cdk8s-refarch
+- projen/projen
