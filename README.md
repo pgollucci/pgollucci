@@ -7,6 +7,7 @@
 - [Facebook](https://www.facebook.com/philip.gollucci)
 - [Email](mailto:pgollucci@p6m7g8.com)
 - [Dev.to](https://dev.to/pgollucci)
+- [Medium](https://medium.com/@pgollucci)
 
 ## Animal Rescuer
 
