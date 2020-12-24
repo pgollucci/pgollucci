@@ -54,7 +54,8 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - Past Mentor, FreeBSD Foundation
 - Past FreeBSD ports committer
   - Most Enhancements to the FreeBSD Ports Tree in The World, 2010
-- Past P5P Member and CPAN author
+- Past P5P Member and CPAN M<odule author
+- NPMJS, PYPI, Nuget, Maven Central Module author
 
 ## What am I active in right now ? (Updated as of 12/13/2020)
 
@@ -84,6 +85,7 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - kubernetes-sigs/aws-alb-ingress-controller
 - ohmyzsh/ohmyzsh
 - pahud/eks-cdk8s-refarch
+- p6m7g8/awesome-projen
 - projen/projen
 
 ## GitHub Stuff
