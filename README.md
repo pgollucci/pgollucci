@@ -85,3 +85,12 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - ohmyzsh/ohmyzsh
 - pahud/eks-cdk8s-refarch
 - projen/projen
+
+## GitHub Stuff
+
+<details open>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pgollucci&notebook&theme=nord&langs_count=10">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pgollucci&show_icons=true&theme=nord&line_height=27">
+</p>
+</details>
