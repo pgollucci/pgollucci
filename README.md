@@ -57,7 +57,7 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - Past P5P Member and CPAN M<odule author
 - NPMJS, PYPI, Nuget, Maven Central Module author
 
-## What am I active in right now ? (Updated as of 12/13/2020)
+## What am I active in right now ? (Updated as of 01/15/2021)
 
 - aws/aws-cdk
 - aws/aws-cdk-rfcs
@@ -65,6 +65,9 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - aws/eks-charts
 - aws/aws-eks-best-practices
 - aws/jsii
+- aws/jsii-docgen
+- aws/jsii-release
+- aws/jsii-srcmak
 - aws/json2sjii
 - awslabs/cdk8s
 - awslabs/aws-eks-cluster-controller
@@ -75,9 +78,6 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - construct-catalog/catalog-master
 - eladb/cdk8s-image
 - eladb/cdk8s-operator
-- eladb/jsii-docgen
-- eladb/jsii-release
-- eladb/jsii-srcmak
 - eladb/markmac
 - hashicorp/terraform-cdk
 - joesuf4/pty
