@@ -69,7 +69,7 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - aws/jsii-release
 - aws/jsii-runtime-go
 - aws/jsii-srcmak
-- aws/json2sjii
+- aws/json2jsii
 - awslabs/aws-eks-cluster-controller
 - aws-quickstart/quickstart-amazon-eks
 - aws-quickstart/quickstart-amazon-eks-cluster-resource-provider
@@ -91,9 +91,9 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - cdktf-providers/cdktf-provider-project
 - cdktf-providers/repository-manager
 - construct-catalog/catalog
-- construct-catalog/catalog-master
+- construct-catalog/public-site
+- construct-catalog/DocumentDBDemo
 - hashicorp/terraform-cdk
-- joesuf4/pty
 - kubernetes-sigs/aws-load-balancer-controller
 - kubernetes-sigs/aws-alb-ingress-controller
 - ohmyzsh/ohmyzsh
