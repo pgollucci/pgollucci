@@ -11,7 +11,7 @@
 - [YouTube](https://www.youtube.com/channel/UC6mOzHytcWLRJInP5B_Qg6g)
 - [Instagram](https://www.instagram.com/p6m7g8/)
 - [TwitchTV](https://www.twitch.tv/pgollucci)
-- [StackOverlfow](https://meta.stackexchange.com/users/908499/philip-m-gollucci)
+- [StackOverflow](https://meta.stackexchange.com/users/908499/philip-m-gollucci)
 
 ## Animal Rescuer
 
@@ -65,15 +65,20 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - aws/eks-charts
 - aws/aws-eks-best-practices
 - aws/jsii
-- aws/jsii-docgen
 - aws/jsii-release
 - aws/jsii-runtime-go
-- aws/jsii-srcmak
 - aws/json2jsii
 - awslabs/aws-eks-cluster-controller
 - aws-quickstart/quickstart-amazon-eks
 - aws-quickstart/quickstart-amazon-eks-cluster-resource-provider
 - cdk-patterns/serverless
+- cdklabs/aws-devlivlib
+- cdklabs/jsii-docgen
+- cdklabs/json2jsii
+- cdklabs/jsii-srcmak
+- cdklabs/cfunctions
+- cdklabs/cdk-triggers
+- cdklabs/cdk-watchful
 - cdk8s-team/cdk8s
 - cdk8s-team/cdk8s-dashboard
 - cdk8s-team/cdk8s-go
