@@ -109,7 +109,6 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - kubernetes-sigs/aws-alb-ingress-controller
 - ohmyzsh/ohmyzsh
 - pahud/eks-cdk8s-refarch
-- p6m7g8/awesome-projen
 - projen/cdkday-projen-codegen
 - projen/projen
 - projen/projen-go
