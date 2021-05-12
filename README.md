@@ -71,7 +71,6 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - construct-catalog/catalog
 - construct-catalog/public-site
 - construct-catalog/DocumentDBDemo
-
 - awslabs/cdk-serverless-clamscan
 - aws-quickstart/quickstart-aws-biotech-blueprint-cdk
 - cdklabs/cdk-watchful
