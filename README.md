@@ -57,62 +57,137 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 - Past P5P Member and CPAN M<odule author
 - NPMJS, PYPI, Nuget, Maven Central Module author
 
-## What am I active in right now ? (Updated as of 03/29/2021)
+## What am I active in right now ? (Updated as of 2021/05/11)
 
-- aws/aws-cdk
-- aws/aws-cdk-rfcs
+### AWS Constructs
+
 - aws/constructs
-- aws/eks-charts
-- aws/aws-eks-best-practices
-- aws/jsii
-- aws/jsii-runtime-go
-- aws/json2jsii
-- awslabs/aws-eks-cluster-controller
-- aws-quickstart/quickstart-amazon-eks
-- aws-quickstart/quickstart-amazon-eks-cluster-resource-provider
-- cdklabs/aws-delivlib
-- cdklabs/cdk-dynamo-table-viewer
-- cdklabs/cdk-triggers
-- cdklabs/cdk-tweet-queue
-- cdklabs/cdk-watchful
+- aws/constructs-go
+- awslabs/aws-solutions-constructs
+- awslabs/concise-constructs
 - cdklabs/cfunctions
 - cdklabs/construct-hub
 - cdklabs/construct-hub-webapp
-- cdklabs/jsii-docgen
-- cdklabs/jsii-release
-- cdklabs/jsii-srcmak
-- cdklabs/json2jsii
-- cdklabs/node-sscaff
-- cdk-patterns/serverless
-- cdk8s-team/cdk8s
-- cdk8s-team/cdk8s-dashboard
-- cdk8s-team/cdk8s-go
-- cdk8s-team/cdk8s-image
-- cdk8s-team/cdk8s-operator
-- cdk8s-team/cdk8s-redis
-- cdk8s-team/kubecon-2020-cdk8s
-- terraform-cdk-providers/cdktf-provider-aws
-- terraform-cdk-providers/cdktf-provider-azurerm
-- terraform-cdk-providers/cdktf-provider-google
-- terraform-cdk-providers/cdktf-provider-external
-- terraform-cdk-providers/cdktf-provider-null
-- terraform-cdk-providers/cdktf-provider-github
-- terraform-cdk-providers/cdktf-provider-docker
-- terraform-cdk-providers/cdktf-provider-kubernetes
-- terraform-cdk-providers/cdktf-provider-project
-- terraform-cdk-providers/repository-manager
 - construct-catalog/catalog
 - construct-catalog/public-site
 - construct-catalog/DocumentDBDemo
+
+- awslabs/cdk-serverless-clamscan
+- aws-quickstart/quickstart-aws-biotech-blueprint-cdk
+- cdklabs/cdk-watchful
+- cdklabs/cdk-watchful
+- cdklabs/node-sscaff
+- cdklabs/aws-delivlib
+- cdklabs/cdk-triggers
+- cdklabs/cdk-dynamo-table-viewer
+- cdklabs/cdk-tweet-queue
+- cdk-patterns/serverless
+- cdk-patterns/cli
+- cdk-patterns/cdk-patterns
+
+### JSII
+
+- aws/jsii
+- aws/jsii-runtime-go
+- cdklabs/jsii-release
+- cdklabs/json2jsii
+- cdklabs/jsii-srcmak
+- cdklabs/jsii-docgen
+
+### AWS CDK 
+
+- aws/aws-cdk
+- aws/aws-cdk-go
+- aws/aws-cdk-rfcs
+
+### CDK8s
+
+- cdk8s-team/cdk8s
+- cdk8s-team/kubecon-2020-cdk8s
+- cdk8s-team/cdk8s-image
+- cdk8s-team/cdk8s-go
+- cdk8s-team/cdk8s-operator
+- cdk8s-team/cdk8s-redis
+- cdk8s-team/cdk8s-dashboard
+
+### CDKTF
+
 - hashicorp/terraform-cdk
-- kubernetes-sigs/aws-load-balancer-controller
-- kubernetes-sigs/aws-alb-ingress-controller
-- ohmyzsh/ohmyzsh
-- pahud/eks-cdk8s-refarch
+- hashicorp/terraform-cdk-go
+- terraform-cdk-providers/repository-manager
+- terraform-cdk-providers/cdktf-provider-project
+- terraform-cdk-providers/cdktf-provider-external
+- terraform-cdk-providers/cdktf-provider-kubernetes
+- terraform-cdk-providers/cdktf-provider-aws
+- terraform-cdk-providers/cdktf-provider-docker
+- terraform-cdk-providers/cdktf-provider-github
+- terraform-cdk-providers/cdktf-provider-azurerm
+- terraform-cdk-providers/cdktf-provider-google
+- terraform-cdk-providers/cdktf-provider-null
+
+### CDKArmKit
+
+- Yetics/armkit
+
+### Projen
+
 - projen/cdkday-projen-codegen
 - projen/projen
 - projen/projen-go
-- Yetics/armkit
+
+### ZSH
+
+- ohmyzsh/ohmyzsh
+
+### AWS EKS
+
+- aws/eks-distro
+- aws/aws-eks-best-practices
+- aws/eks-distro-build-tooling
+- aws/eks-distro-prow-jobs
+- aws/eks-charts
+- aws/amazon-eks-pod-identity-webhook
+- aws/amazon-eks-diag
+- awslabs/amazon-eks-ami
+- awslabs/sql-based-etl-with-apache-spark-on-amazon-eks
+- awslabs/amazon-eks-irsa-cfn
+- awslabs/federated-amazon-eks-clusters-on-aws
+- awslabs/aws-eks-cluster-controller
+- awslabs/amazon-eks-serverless-drainer
+- awslabs/aws-eks-portworx-sql
+- aws-quickstart/quickstart-amazon-eks-cluster-resource-provider
+- aws-quickstart/quickstart-eks-rancher
+- aws-quickstart/quickstart-jfrog-artifactory-eks
+- aws-quickstart/quickstart-eks-rafay-systems
+- aws-quickstart/quickstart-amazon-eks
+- aws-quickstart/quickstart-eks-grafana
+- aws-quickstart/quickstart-eks-prometheus
+- aws-quickstart/quickstart-spotinst-eks
+- aws-quickstart/quickstart-sap-datahub-eks
+- aws-quickstart/quickstart-eks-portworx-px-enterprise
+- aws-quickstart/quickstart-eks-boomi-molecule
+- aws-quickstart/quickstart-eks-tigera-calico
+- aws-quickstart/quickstart-amazon-eks-nodegroup
+- aws-quickstart/quickstart-eks-hashicorp-consul
+- aws-quickstart/quickstart-eks-hashicorp-vault
+- aws-quickstart/quickstart-eks-snyk
+- aws-quickstart/quickstart-eks-newrelic-infrastructure
+
+#### EKS Controllers
+
+- aws/aws-app-mesh-controller-for-k8s
+- aws/amazon-vpc-resource-controller-k8s
+- awslabs/amazon-apigateway-ingress-controller
+- awslabs/aws-eks-cluster-controller
+- awslabs/aws-vpn-controller
+- awslabs/k8s-eniconfig-controller
+- awslabs/aws-ros-client-library-microcontrollers
+- aws-quickstart/quickstart-aviatrix-controller
+- kubernetes-sigs/aws-load-balancer-controller
+- kubernetes-sigs/container-object-storage-interface-controller
+- kubernetes-sigs/controller-runtime
+- kubernetes-sigs/controller-tools
+- kubernetes-sigs/ingress-controller-conformance
 
 ## GitHub Stuff
 
