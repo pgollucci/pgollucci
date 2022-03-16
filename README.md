@@ -31,7 +31,7 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 
 ### Amazon Web Services
 
-- **AWS Community Builder** [two time] (<1,800 world-wide) DevTools & Management/Governance & Migration
+- **AWS Community Builder** [two time] (<1,800 world-wide) 71 are in Management/Governance & Migration
 - Member, AWS Worldwide Public Sector Partner Advisory Council
 - Member, AWS IQ Experts
 - Member, CDK.dev
@@ -47,14 +47,14 @@ I am part of a mixed paid/volunteer team responsible for saving cats and dogs al
 
 ### Prior
 
-- Past Board Officer, Apache Software Foundation (ASF)
+- Past Board Officer, Apache Software Foundation (ASF) 
   - VP of Infrastructure (World Wide) 2009-2011
 - Past Apache Software Foundation (ASF) projects: apr, httpd, mod_perl, apreq, infra
 - Past Member, Qubole Customer Advisory Council
 - Past Mentor, FreeBSD Foundation
 - Past FreeBSD ports committer
   - Most Enhancements to the FreeBSD Ports Tree in The World, 2010
-- Past P5P Member and CPAN Module author
+- Past P5P Member and CPAN M<odule author
 - NPMJS, PYPI, Nuget, Maven Central Module author
 
 ## GitHub Stuff
