@@ -15,10 +15,13 @@
 
 ## Animal Rescuer
 
-Volunteering with **Lucky Dog Animal Rescue** for 6yrs+ as a Driver, Donor, Handler, Home Visits, Foster, Adopter, Adoption/Event Coordinator.
+Volunteering with **Lucky Dog Animal Rescue** for 6yrs+ as a Driver, Donor,
+Handler, Home Visits, Foster, Adopter, Adoption/Event Coordinator.
 
 - Fostered over 400 dogs.
-- Part of a volunteer team responsible for saving cats and dogs worldwide. Over 28,000 dogs and cats have been saved from over 10 states and 5 countries since 2009.
+- Part of a volunteer team responsible for saving cats and dogs worldwide.
+  Over 28,000 dogs and cats have been saved from over 10 states and 5
+  countries since 2009.
 - Represented Lucky Dog Animal Rescue at AWS Worldwide Public Sector Summit in 2019.
 - 1st place national fund-raising team for Best Friends Society.
 - National crisis response to all US hurricanes in 2018.
@@ -58,9 +61,5 @@ Volunteering with **Lucky Dog Animal Rescue** for 6yrs+ as a Driver, Donor, Hand
 
 ## GitHub Stuff
 
-<details open>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pgollucci&notebook&theme=nord&langs_count=10">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pgollucci&show_icons=true&theme=nord&line_height=27">
-</p>
-</details>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgollucci)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgollucci)
