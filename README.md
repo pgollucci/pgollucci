@@ -63,3 +63,9 @@ Handler, Home Visits, Foster, Adopter, Adoption/Event Coordinator.
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pgollucci&theme=nord_dark)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pgollucci&theme=nord_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pgollucci&theme=nord_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=pgollucci&theme=nord)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pgollucci&theme=nord)
+![Profile Views](https://komarev.com/ghpvc/?username=pgollucci&color=5e81ac)
+![Followers](https://img.shields.io/github/followers/pgollucci?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/pgollucci?style=for-the-badge)
