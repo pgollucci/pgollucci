@@ -17,9 +17,8 @@
 
 Volunteering with **Lucky Dog Animal Rescue** for 6yrs+ as a Driver, Donor, Handler, Home Visits, Foster, Adopter, Adoption/Event Coordinator.
 
-I am part of a mixed paid/volunteer team responsible for saving cats and dogs all over the world. Over 20k dogs and cats have been saved from over 10 states and 5 countries since 2009.
-
-- Fostered over 300 dogs.
+- Fostered over 400 dogs.
+- Part of a volunteer team responsible for saving cats and dogs worldwide. Over 28,000 dogs and cats have been saved from over 10 states and 5 countries since 2009.
 - Represented Lucky Dog Animal Rescue at AWS Worldwide Public Sector Summit in 2019.
 - 1st place national fund-raising team for Best Friends Society.
 - National crisis response to all US hurricanes in 2018.
