@@ -61,5 +61,5 @@ Handler, Home Visits, Foster, Adopter, Adoption/Event Coordinator.
 
 ## GitHub Stuff
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgollucci)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgollucci)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pgollucci&theme=nord_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pgollucci&theme=nord_dark)
